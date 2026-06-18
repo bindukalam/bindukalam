@@ -29,8 +29,8 @@ I also use AI tools (OpenAI APIs, GitHub Copilot, Claude Code) to move faster in
 
 | Project | What it shows |
 |---|---|
-| **[Real-Time Fraud Decisioning Pipeline for a Digital Payments Platform](#)** | Spring Boot + OpenAI embeddings + vector DB for similarity-based fraud detection |
-| **[HIPAA-Compliant Claims Processing Platform for Healthcare Adjudication](#)** | Kafka-based event-driven microservice, Dockerized, mirrors production claims workflows |
+| **[Fiserv Fraud Pipeline — Case Study](https://github.com/bindukalam/fiserv-fraud-pipeline-case-study)** | Real-time fraud decisioning architecture: Kafka, OpenAI embeddings, vector similarity search, 40% latency reduction |
+| **[CVS Claims Platform — Case Study](https://github.com/bindukalam/cvs-claims-platform-case-study)** | HIPAA-compliant claims processing: event-driven microservices, PHI-secure data layers, 50K+ daily claims |
 | **[chicago-crime-analytics](#)** | Spark/PySpark batch + streaming pipeline on GCP Dataproc, ML classification (87% precision) |
 | **[retail-demand-forecasting](#)** | End-to-end ML pipeline for demand forecasting using time-series and regression models |
 
