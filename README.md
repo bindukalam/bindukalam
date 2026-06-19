@@ -31,8 +31,8 @@ I also use AI tools (OpenAI APIs, GitHub Copilot, Claude Code) to move faster in
 |---|---|
 | **[Fiserv Fraud Pipeline — Case Study](https://github.com/bindukalam/fiserv-fraud-pipeline-case-study)** | Real-time fraud decisioning architecture: Kafka, OpenAI embeddings, vector similarity search, 40% latency reduction |
 | **[CVS Claims Platform — Case Study](https://github.com/bindukalam/cvs-claims-platform-case-study)** | HIPAA-compliant claims processing: event-driven microservices, PHI-secure data layers, 50K+ daily claims |
-| **[chicago-crime-analytics](#)** | Spark/PySpark batch + streaming pipeline on GCP Dataproc, ML classification (87% precision) |
-| **[retail-demand-forecasting](#)** | End-to-end ML pipeline for demand forecasting using time-series and regression models |
+| **[Chicago-Crime-Analytics](https://github.com/bindukalam/Chicago-Crime-Analysis-and-Forecast)** | Analyzed 1M+ crime records (2012–2016); forecasted crime trends using Facebook Prophet; SQLite normalized schema |
+| **[Employee-Churn-Analysis](https://github.com/bindukalam/Employee-Churn-Analysis)** | Predicted employee attrition on 14,999 HR records; Decision Tree achieved 95.64% accuracy; Boruta feature selection |
 
 ---
 
