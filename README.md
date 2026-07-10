@@ -41,5 +41,6 @@ I also use AI tools (OpenAI APIs, GitHub Copilot, Claude Code) to move faster in
 - **Fiserv** — Full Stack Java Developer (Sep 2024–Present): event-driven payments microservices, fraud decisioning, 40% latency reduction
 - **CVS Health** — Full Stack Java Developer (May 2023–Aug 2024): HIPAA-compliant claims processing platform, 50K+ daily claims
 - **Cognizant** — Software Developer (Jan 2021–Jul 2022): retail inventory microservices, Kafka event pipelines
+- **Dvara Solutions** — Java Developer (May 2017–Jul 2020): Built and maintained Java-based applications using Core Java, OOP principles, and design patterns in real-world enterprise project
 
 📄 Full resume available on request or via [LinkedIn](https://linkedin.com/in/bindukalam)
