@@ -41,7 +41,7 @@ My core stack is **Java 17, Spring Boot, Kafka, and AWS**, with React/TypeScript
 
 | Project | What it shows |
 | --- | --- |
-| **[Fiserv Fraud Pipeline: Case Study](https://github.com/bindukalam/fiserv-fraud-pipeline-case-study)** | Real-time, event-driven decisioning architecture: Kafka, OpenAI embeddings, vector similarity search |
+| **[Fiserv : Case Study](https://github.com/bindukalam/fiserv-fraud-pipeline-case-study)** | Real-time, event-driven decisioning architecture: Kafka, OpenAI embeddings, vector similarity search |
 | **[CVS Claims Platform: Case Study](https://github.com/bindukalam/cvs-claims-platform-case-study)** | HIPAA-compliant claims processing: Kafka event-driven microservices, FHIR APIs, Spring Security/OAuth2, 50K+ daily claims |
 | **[Chicago-Crime-Analytics](https://github.com/bindukalam/Chicago-Crime-Analysis-and-Forecast)** | Analyzed 1M+ crime records (2012–2016); forecasted trends using Facebook Prophet; SQLite normalized schema |
 | **[Employee-Churn-Analysis](https://github.com/bindukalam/Employee-Churn-Analysis)** | Predicted employee attrition on 14,999 HR records; Decision Tree achieved 95.64% accuracy; Boruta feature selection |
